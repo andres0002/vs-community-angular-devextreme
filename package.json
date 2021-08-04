@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "devextreme": "^21.1.4",
+    "devextreme-angular": "^21.1.4"
+  }
+}
